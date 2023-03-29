@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Verificando juros</string>
+    <string-array name="opcaoConta">
+        <item>%</item>
+        <item>X</item>
+        <item>/</item>
+        <item>-</item>
+        <item>+</item>
+    </string-array>
+</resources>
